@@ -17,7 +17,7 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m-freeland/desktop.png" width="600px" alt="Desktop"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m.freeland/desktop.png" width="600px" alt="Desktop"> | 
 |:--:| 
 | *Desktop* |
 
@@ -31,7 +31,7 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m-freeland/ipad-portrait.jpg" width="600px" alt="iPad Portrait"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m.freeland/ipad-portrait.png" width="600px" alt="iPad Portrait"> | 
 |:--:| 
 | *iPad Portrait* |
 
@@ -45,7 +45,7 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m-freeland/ipad-landscape.jpg" width="600px" alt="iPad Landscape"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m.freeland/ipad-landscape.png" width="600px" alt="iPad Landscape"> | 
 |:--:| 
 | *iPad Landscape* |
 
@@ -59,23 +59,9 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m-freeland/mobile-portrait.jpg" width="600px" alt="Mobile Portrait"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m.freeland/mobile-portrait.png" width="600px" alt="Mobile Portrait"> | 
 |:--:| 
 | *Mobile Portrait* |
-
-</div>
-
-</center>
-
-<br><br>
-
-<center>
-
-<div width="600px" align="center">
-
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/m-freeland/mobile-landscape.jpg" width="600px" alt="Mobile Landscape"> | 
-|:--:| 
-| *Mobile Landscape* |
 
 </div>
 
